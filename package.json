@@ -1,0 +1,19 @@
+{
+  "name": "tarea-semana-2",
+  "version": "1.0.0",
+  "description": "Tarea Semana 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index"
+  },
+  "keywords": [
+    "intro",
+    "npm",
+    "nodejs",
+    "semana",
+    "prgra4"
+  ],
+  "author": "Bryan Alejandro Aguilar Calderon",
+  "license": "ISC"
+}
